@@ -2,7 +2,8 @@
 
 ## 参考書
 
-- [現場で使える Django の教科書《基礎編》](https://akiyoko.booth.pm/items/1308742) - [現場で使える Django の教科書《実践編》](https://akiyoko.booth.pm/items/1030026)
+- [現場で使える Django の教科書《基礎編》](https://akiyoko.booth.pm/items/1308742)
+- [現場で使える Django の教科書《実践編》](https://akiyoko.booth.pm/items/1030026)
     - [@akiyoko](https://github.com/akiyoko) さんの本です。感謝。
     - ご本家のソースコードは[こちら](https://github.com/akiyoko/django-book-mysite-sample)
 
